@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+.env
+.ipynb_checkpoints/
+artifacts/
+data/raw/
+data/processed/
+spark-warehouse/
+checkpoint/
+*.log
+.DS_Store
